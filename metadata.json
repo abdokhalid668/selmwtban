@@ -1,0 +1,6 @@
+{
+  "name": "Snakes and Ladders",
+  "description": "A modern, neon-cyberpunk Snakes and Ladders game for 2-4 players, featuring action-packed mystery cards, smooth token animations, and a high-tech 3D-rolling dice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
